@@ -1,6 +1,6 @@
 # Python Project
 
-Hello there, I`am Cassio Montanher and this blog will be the record my weekly progress of my Python project.
+Hello there, I`am Cassio Montanher and this blog will be my weekly progress record of my Python project.
 
 I decided to do this project to learn the Python langague, as during my job hunting in Vancouver I discovered that Python is a quite popular language and being requested by a lot of tech companies. 
 
