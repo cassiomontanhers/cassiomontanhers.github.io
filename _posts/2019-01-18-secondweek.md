@@ -15,3 +15,10 @@ So for the next week, I want to solve this database connection issue, and have a
 
 Here are a couple of screenshots of the current state of the project!
 
+**Login Page**
+![Login page](/images/Capture.PNG)
+
+**The Database error**
+![Database error](/images/Capture2.PNG)
+
+Until next week!!
