@@ -9,7 +9,7 @@ Hello there, in this post I'm going to discuss a little bit about my progress to
 
 - While I was checking out what the Flask Framework could do, I've encountered the Jinja2 template engine that generates automatic HTML based on your python code, helping you alot to fill your pages with flexible information (it reminds me alot AngularJS ).
 
-- At last, after trying a bit with the routing and the Jinja template, I've tryied to implement connection to a database to create a login feature using SQLite and the SqlAlchemy library, but this is still a work in progress as I've faced some issues making it work (When I try to insert a new record, it doens't find any table, so when I try to log in it do not find my table to recover the information to log in, as you see at the *second screenshot*).
+- At last, after trying a bit with the routing and the Jinja template, I've tryied to implement connection to a database to create a login feature using SQLite and the SqlAlchemy library, but this is still a work in progress as I've faced some issues making it work (When I try to insert a new record, it doens't find any table, so when I try to log in it do not find my table to recover the information to log in, as you can see at the *second screenshot*).
 
 So for the next week, I want to solve this database connection issue, and have a page to insert user dreams records and a sign in form.
 
