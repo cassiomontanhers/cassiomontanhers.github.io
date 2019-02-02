@@ -13,9 +13,15 @@ So for the next week, I want to improve some features to have a more user friend
 Here are a couple of screenshots of the current state of the project!
 
 **Login Page**
-![Login page](/images/login.PNG)
+![Login page](/images/loginf.PNG)
 
 **Main Page**
-![Main Page](/images/main.PNG)
+![Main Page](/images/mainf.PNG)
+
+**My Dreams**
+![mydreams](/images/mydreams.PNG)
+
+**Log Dream**
+![logdream](/images/logdream.PNG)
 
 Until next week!!
